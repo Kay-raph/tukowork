@@ -24,7 +24,7 @@
     <nav class=" navbar navbar-expand-lg  
         navbar py-lg-0 " style="position: scroll; background-color: #624cd5;"> 
   
-        <a class="navbar-brand" id="logo" href="index.html"> 
+        <a class="navbar-brand" id="logo" href="/"> 
   
             <!-- Add logo with size of 150*auto -->
             <img src= 
@@ -57,7 +57,7 @@
 				<a href="/policy" id="policy" class="policy" click="active current='policy'"><i class="fa fa-fw fa-info-circle"></i>Our Policy</a> 
 			</li> 
 			<li class="nav-item"> 
-				<a href="/index" class="home" click="active current='home'"><i class="fa fa-fw fa-home"></i>Home</a> 
+				<a href="/" class="home" click="active current='home'"><i class="fa fa-fw fa-home"></i>Home</a> 
 		</li> 
 	</ul> 
 </div> 
@@ -70,7 +70,7 @@
 		<br>
 		<p style="color: #000; font-size: 1.2em;">Our mission is to connect top talents from all over the world to team up with fast growing start-ups as well as businesses in Africa. 
 			We work with African start-ups to provide both short-term programs and remote job opportunities in Kenya and  the continent.
-			 <a href="/index" style="color: #624cd5; text-decoration: none;"><strong>Tukoworks</strong></a> team will not only get you immersed in a different culture but also gain indispensable work experience that has an immediate impact in Africa.</p>
+			 <a href="/" style="color: #624cd5; text-decoration: none;"><strong>Tukoworks</strong></a> team will not only get you immersed in a different culture but also gain indispensable work experience that has an immediate impact in Africa.</p>
 		<br><br>
 		<h1 style="text-transform: uppercase; font-size: 1.5em;"><strong>
 			Our Vision
@@ -93,7 +93,7 @@
 		  
 		<div class="col-xs-12 col-sm-6 col-md-3">
 		<div class="widget subscribe no-box">
-		<a href="/index"><img src="logos/crm8.png" style="width: 100px; height: auto;"></a>
+		<a href="/"><img src="logos/crm8.png" style="width: 100px; height: auto;"></a>
 		<p>“Connect to talent and jobs anywhere anytime”</p>
 	</div>
 		</div>
