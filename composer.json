@@ -5,9 +5,8 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^8.0.1",
-        "fideloper/proxy": "~3.3",
-        "laravel/framework": "8.0.*",
+        "php": "7.3.25",
+        "laravel/framework": "5.5.50.*",
         "laravel/tinker": "~1.0"
     },
     "require-dev": {
