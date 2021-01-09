@@ -57,7 +57,7 @@
 			<span class="sr-only">(current)</span>			   
 		</li> 
 		<li class="nav-item"> 
-			<a href="{{ url('/signup') }}" class="signup" click="active current='signup'"><i class="fa fa-fw fa-user"></i>sign up</a>
+			<a href="{{ url('/findsignup') }}" class="signup" click="active current='signup'"><i class="fa fa-fw fa-user"></i>sign up</a>
 		</li> 
 		<li class="nav-item"> 
 			<a href="{{ url('/about') }}" id="about" class="about" click="active current='about'"><i class="fa fa-fw fa-info-circle"></i>About us</a> 
