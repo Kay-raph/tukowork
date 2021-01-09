@@ -46,33 +46,7 @@
                                 <label for="re-pass"><i class="zmdi zmdi-lock-outline"></i></label>
                                 <input type="password" name="re_pass" id="re_pass" placeholder="Repeat your password" required/>
                             </div>
-                            <!-- <div class="form-group">
-                                <p><b>Select Gender</b></p>
-                                <select style="border-radius: 5px; border-color: #624cd5; padding: 5px; color: #624cd5;" required>
-                                    <option selected disabled>--Select gender--</option>
-                                    <option>Male</option>
-                                    <option>Female</option>
-                                </select>
-                            </div>
-                            <div class="form-group">
-                                    <p><b>Level of Experience</b></p>
-                 <select style="border-radius: 5px; border-color: #624cd5; padding: 5px; color: #624cd5;" required>
-                     <option selected disabled>--Select Experience level--</option>
-                     <option>Entry Level</option>
-                     <option>Junior Level</option>
-                     <option>Senior Level</option>
-                 </select>
-                </div>
-                 <div class="form-group">
-                                <p><b>Professional Documents</b></p>
-                                <br><br>
-                                
-                    <label class="file-upload">
-                        <input type="file" required style="font-size: small; color: #ea914c; cursor: pointer; border: 2px solid #624cd5; border-radius: 10px; padding: 5px;"/>
-                    </label>
-
-                   <br>
-                            </div> -->
+                         
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree to  Terms of service/Policy</label>
